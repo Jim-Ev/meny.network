@@ -14,3 +14,7 @@ There are many benefits. Researches show that major global companies are victims
 -MENY Token
 
 Meny Network's Token MENY will be used as the bridge between clients and all of Meny Network's services. To be able to benefit from Meny Network's services, businesses will have to use MENY. MENY is an erc20 Token powered by Ethereum's blockchain.
+
+
+
+www.meny.network
