@@ -17,4 +17,4 @@ Meny Network's Token MENY will be used as the bridge between clients and all of 
 
 
 
-www.meny.network
+https://meny.network
